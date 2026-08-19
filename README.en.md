@@ -74,7 +74,7 @@ git clone https://github.com/espincom/m3u8-studio.git
 ```
 
 ```bash
-cd m3u8_studio
+cd m3u8-studio
 ```
 
 ```bash
@@ -217,7 +217,7 @@ full detail in `m3u8_studio.log`.
 ## 9. Project layout
 
 ```
-m3u8_studio/
+m3u8-studio/
 ├── m3u8_downloader.py      Launcher
 ├── requirements.txt
 └── m3u8_studio/
