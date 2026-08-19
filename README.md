@@ -72,7 +72,7 @@ git clone https://github.com/espincom/m3u8-studio.git
 ```
 
 ```bash
-cd m3u8_studio
+cd m3u8-studio
 ```
 
 ```bash
@@ -212,7 +212,7 @@ yakalanmamış hatalar tam ayrıntısıyla kayıtlıdır.
 ## 9. Proje yapısı
 
 ```
-m3u8_studio/
+m3u8-studio/
 ├── m3u8_downloader.py      Başlatıcı
 ├── requirements.txt
 └── m3u8_studio/
