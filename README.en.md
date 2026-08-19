@@ -2,6 +2,8 @@
 
 # M3U8 Studio
 
+<img width="1062" height="792" alt="Ekran Alıntısı en" src="https://github.com/user-attachments/assets/5dddd4d8-cbce-45a7-a94f-c34c139ae097" />
+
 A desktop application written with PyQt6 that downloads HLS (`.m3u8`) streams at the
 highest available quality.
 
