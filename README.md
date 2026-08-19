@@ -2,6 +2,8 @@
 
 # M3U8 Studio
 
+<img width="1062" height="792" alt="Ekran Alıntısı en" src="https://github.com/user-attachments/assets/2f85347b-2011-480c-8ff9-37343ddd0faf" />
+
 HLS (`.m3u8`) yayınlarını en yüksek kalitede indiren, PyQt6 ile yazılmış masaüstü uygulaması.
 
 Bir video linkini yapıştırıyorsunuz, program playlist'i çözümleyip segmentleri paralel indiriyor,
