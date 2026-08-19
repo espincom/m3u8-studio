@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+m3u8_studio.log
+*.log
+
+*.ts
+*.mp4
+*.raw.ts
+
+# tek dosyalik eski surum (yerelde kalsin, depoya gitmesin)
+m3u8_downloader.tekdosya.yedek.py
