@@ -68,7 +68,7 @@ python --version
 Komut istemini açıp sırasıyla:
 
 ```bash
-git clone https://github.com/espincom/m3u8_studio.git
+git clone https://github.com/espincom/m3u8-studio.git
 ```
 
 ```bash
