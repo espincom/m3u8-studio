@@ -70,7 +70,7 @@ need to type `python3` and `pip3` instead of `python` and `pip`.
 Open a terminal and run:
 
 ```bash
-git clone https://github.com/espincom/m3u8_studio.git
+git clone https://github.com/espincom/m3u8-studio.git
 ```
 
 ```bash
